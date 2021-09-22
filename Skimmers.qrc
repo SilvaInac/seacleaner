@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="s">
+    <file>s-multiplasEscovas.jpg</file>
+    <file>s-seasw.jpg</file>
+    <file>s-tambor.jpg</file>
+    <file>s-weir.jpg</file>
+    <file>s-weir.webp</file>
+  </qresource>
+</RCC>
